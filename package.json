@@ -9,5 +9,21 @@
         "express": "^5.2.1",
         "nodemon": "^3.1.14",
         "uuid": "^13.0.0"
-    }
+    },
+    "name": "fourth-lesson-streams",
+    "version": "1.0.0",
+    "description": "Start the server and open the page in your browser — you should see the contents of `index.html`.",
+    "main": "index.js",
+    "devDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Xorrim/fourth-lesson-streams.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Xorrim/fourth-lesson-streams/issues"
+    },
+    "homepage": "https://github.com/Xorrim/fourth-lesson-streams#readme"
 }
